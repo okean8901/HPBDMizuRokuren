@@ -156,6 +156,8 @@ body {
     z-index: 5;
     width: 480px;
     height: 300px;
+    border-radius: 20px; /* Bo góc ảnh */
+    box-shadow: 0 0 50px rgba(255, 255, 255, 0.5); /* Thêm viền sáng */
 }
 
 @keyframes animateBalloon {
